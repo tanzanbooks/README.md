@@ -118,3 +118,6 @@ note（外向き）
 **問いが保存される場所**だと考えています。
 
 このリポジトリも、その一棚です。
+
+Unless otherwise noted, texts in this repository are licensed under Creative Commons Attribution 4.0 International (CC BY 4.0).
+
